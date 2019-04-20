@@ -1,0 +1,11 @@
+body {
+  background-image: teal;
+}
+
+img {
+  width: 45vh;
+}
+
+.col {
+  margin: 100px;
+}
