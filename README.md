@@ -1,5 +1,6 @@
 # randompictures
-Subscribe to receive random pictures
+Subscribe to receive random pictures 
+https://galoopi.github.io/randompictures/
 
 This is a test site only.
 
